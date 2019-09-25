@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type=“text/css” href = “style.css”?>
+
+<Setlists>
+        <Setlist type="The Strokes">
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>The Modern Age</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2001</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>Razorblade</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2006</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>Drag Queen</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2016</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>Ize of the World</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2006</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>What Ever Happened?</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2003</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>50/50</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2013</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>Reptilia</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2003</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>Last Nite</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2001</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>Machu Picchu</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2011</Year>
+                </Song>
+                <Song>
+                        <Artist>The Strokes</Artist>
+                        <Title>New York City Cops</Title>
+                        <Genre>Rock</Genre>
+                        <Year>2001</Year>
+                </Song>
+        </Setlist>
+</Setlists>
